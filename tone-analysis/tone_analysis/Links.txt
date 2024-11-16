@@ -1,0 +1,9 @@
+Model For English & Arabic SER: https://drive.google.com/file/d/1eiUzx-eZB8_qz5dC8jAxXUr2E7JUMgmP/view?usp=sharing
+
+label_encoder: https://drive.google.com/file/d/19pjQ15q5Ikueu3_gkeNZPeQYNGFAF1Uu/view?usp=sharing
+
+Scaler: https://drive.google.com/file/d/1FwDztJIBDr4Skiz4NfDNKAk0ZUASxIeA/view?usp=sharing
+
+English Dataset Features: https://drive.google.com/file/d/1X6eQnIvmCrUzC1FSN9AGbBu5ZcMl5mCS/view?usp=sharing
+
+Arabic Dataset Features: https://drive.google.com/file/d/1tYK6cLKlvxxL-_0xn2tIb2DDFZrwrRv9/view?usp=sharing

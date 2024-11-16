@@ -1,0 +1,5 @@
+pyannote.audio
+torchaudio
+pydub
+whisper
+numpy
